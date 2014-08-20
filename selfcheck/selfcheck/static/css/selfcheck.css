@@ -1,0 +1,9 @@
+/* CSS for SelfCheckXBlock */
+
+.selfcheck_block .count {
+    font-weight: bold;
+}
+
+.selfcheck_block p {
+    cursor: pointer;
+}
