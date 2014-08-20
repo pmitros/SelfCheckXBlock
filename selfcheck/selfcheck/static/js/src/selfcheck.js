@@ -17,4 +17,8 @@ function SelfCheckXBlock(runtime, element) {
             success: post_submit
         });
     });
+
+    if ($(".input",element).val().length > 2) {
+	post_submit("Dummy");
+    }
 }
