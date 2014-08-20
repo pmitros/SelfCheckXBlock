@@ -1,11 +1,9 @@
 <div class="selfcheck_block">
 {prompt}
 <br>
-<textarea class="input" {attributes}>
-{student_input}
-</textarea>
+<textarea class="input" placeholder="{placeholder}" {attributes} cols="40" rows="5">{student_input}</textarea>
 <br/>
-<div class="submit"> Submit and compare </div>
+<div style="display:flex; width:100%;"><div style="flex-grow:1"></div><div class="submit" style="border:1px solid;"> Submit and compare </div></div>
 <br/>
 <div class="solution" style="display:none">
 {solution}

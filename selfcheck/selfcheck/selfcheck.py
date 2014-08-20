@@ -103,7 +103,7 @@ Solution: Nope. And you're an idiot if you thought otherwise.
 <selfcheck>
 Prompt: A pinch-hitter hits a foul ball which is caught by the right field. What is the direction of the force on the ball in-flight? 
 Placeholder: Here is where the student writes her short answer. Example of a culturally-neutral assessment
-Solution: Down.
+Solution: Down, and constant. 
 </selfcheck>
                 </vertical_demo>
              """),
